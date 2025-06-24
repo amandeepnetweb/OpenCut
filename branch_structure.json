@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dev",
+    "izadoesdev-patch-1",
+    "main",
+    "mazeincoding-patch-1",
+    "mazeincoding/refactor-timeline",
+    "revert-141-code-refactoring"
+  ],
+  "parent": {
+    "dev": "main",
+    "izadoesdev-patch-1": "main",
+    "main": null,
+    "mazeincoding-patch-1": "main",
+    "mazeincoding/refactor-timeline": "main",
+    "revert-141-code-refactoring": "main"
+  },
+  "order": [
+    "main",
+    "dev",
+    "izadoesdev-patch-1",
+    "mazeincoding-patch-1",
+    "mazeincoding/refactor-timeline",
+    "revert-141-code-refactoring"
+  ]
+}
